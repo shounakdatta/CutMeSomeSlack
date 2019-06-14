@@ -1,0 +1,19 @@
+{
+  "name": "cut-me-some-slack",
+  "version": "1.0.0",
+  "description": "A simple Node.js app for experimenting with the Slack API using Bolt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shounakdatta/CutMeSomeSlack.git"
+  },
+  "author": "Shounak Datta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shounakdatta/CutMeSomeSlack/issues"
+  },
+  "homepage": "https://github.com/shounakdatta/CutMeSomeSlack#readme"
+}
