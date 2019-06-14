@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/shounakdatta/CutMeSomeSlack/issues"
   },
-  "homepage": "https://github.com/shounakdatta/CutMeSomeSlack#readme"
+  "homepage": "https://github.com/shounakdatta/CutMeSomeSlack#readme",
+  "dependencies": {
+    "@slack/bolt": "^1.2.0",
+    "dotenv": "^8.0.0",
+    "http": "^0.0.0",
+    "yarn": "^1.16.0"
+  }
 }
